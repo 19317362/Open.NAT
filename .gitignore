@@ -13,3 +13,5 @@ packages/
 
 #ignore Resharper folders
 _ReSharper*/
+
+.vs/Open.Nat/v15/Server/sqlite3*/
